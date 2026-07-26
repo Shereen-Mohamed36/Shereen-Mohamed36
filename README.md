@@ -23,32 +23,32 @@ Driven by a passion for building scalable data architectures, optimizing complex
 
 ##### ⚡ Dynamic Data Pipeline Workflow
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'lineColor': '#ff79c6' }}}%%
 graph LR
-    %% Tool Nodes with HTML Icons
-    A[<img src='[https://img.shields.io/badge/Data_Sources-Ingest-lightgrey?style=flat-square'/](https://img.shields.io/badge/Data_Sources-Ingest-lightgrey?style=flat-square'/)>] 
-    B[<img src='[https://img.shields.io/badge/Apache_NiFi-009688?style=flat-square&logo=Apache%20NiFi&logoColor=white'/](https://img.shields.io/badge/Apache_NiFi-009688?style=flat-square&logo=Apache%20NiFi&logoColor=white'/)>] 
-    C[<img src='[https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white'/](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white'/)>] 
-    D[<img src='[https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white'/](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white'/)>] 
-    E[<img src='[https://img.shields.io/badge/Databases-Storage-blue?style=flat-square'/](https://img.shields.io/badge/Databases-Storage-blue?style=flat-square'/)>] 
-    F[<img src='[https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black'/](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black'/)>]
-    
-    %% Orchestration Overlay
-    Airflow[<img src='[https://img.shields.io/badge/Apache_Airflow-017CE2?style=flat-square&logo=Apache%20Airflow&logoColor=white'/](https://img.shields.io/badge/Apache_Airflow-017CE2?style=flat-square&logo=Apache%20Airflow&logoColor=white'/)>]
+    %% Tool Nodes
+    A[📥 Data Sources] 
+    B[🔄 Apache NiFi] 
+    C[⚡ Apache Kafka] 
+    D[⚙️ Apache Spark] 
+    E[🗄️ Storage / DBs] 
+    F[📊 Power BI]
+    Airflow[💨 Apache Airflow]
 
-    %% Flow Connections with Moving/Interactive-style Links
+    %% Flow Connections
     A ==>|Raw Data| B
-    B ==>|Stream| C
-    C ==>|High Velocity| D
+    B ==>|Ingest & Stream| C
+    C ==>|High-Velocity| D
     D ==>|Transform & Load| E
-    E ==>|Analytics| F
+    E ==>|Analyze| F
 
-    %% Airflow Orchestrating the Core
+    %% Airflow Orchestration
     Airflow -.->|Orchestrate| B
     Airflow -.->|Trigger Jobs| D
 
-    %% Dynamic Linking/Stuffs
-    style B fill:#111,stroke:#009688,stroke-width:2px
-    style C fill:#111,stroke:#231F20,stroke-width:2px
-    style D fill:#111,stroke:#E25A1C,stroke-width:2px
-    style Airflow fill:#111,stroke:#017CE2,stroke-width:2px
+    %% Custom Tech-Stack Styling (Colors)
+    style Airflow fill:#017CE2,stroke:#fff,stroke-width:2px,color:#fff
+    style B fill:#009688,stroke:#fff,stroke-width:2px,color:#fff
+    style C fill:#231F20,stroke:#fff,stroke-width:2px,color:#fff
+    style D fill:#E25A1C,stroke:#fff,stroke-width:2px,color:#fff
+    style F fill:#F2C811,stroke:#333,stroke-width:2px,color:#333
+    style A fill:#7f8c8d,stroke:#fff,stroke-width:1px,color:#fff
+    style E fill:#2980b9,stroke:#fff,stroke-width:1px,color:#fff
