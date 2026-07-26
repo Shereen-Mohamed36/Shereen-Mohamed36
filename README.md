@@ -5,58 +5,50 @@ Driven by a passion for building scalable data architectures, optimizing complex
 
 ---
 
-### 🌐 Comprehensive Data Lifecycle Architecture
+### 🎓 Education & Background
+*   **B.Sc. in Computers and Artificial Intelligence** – Capital University (formerly Helwan University)
+*   **Big Data Training Track** – Samsung Innovation Campus
+*   **NextStep Mentorship Program** – UNICEF Mentees (Supported by Deloitte)
 
-Here is how I view, connect, and orchestrate the entire data engineering ecosystem using my tech stack:
+---
 
+### 🛠️ Technical Toolbox
+
+#### 🌌 Data Engineering & Big Data Ecosystem
+![](https://img.shields.io/badge/Apache_Airflow-017CE2?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![](https://img.shields.io/badge/Apache_NiFi-009688?style=for-the-badge&logo=Apache%20NiFi&logoColor=white)
+![](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
+![](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
+![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+
+##### ⚡ Dynamic Data Pipeline Workflow
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'lineColor': '#ff79c6' }}}%%
 graph LR
-    %% Data Sources
-    subgraph Sources [1. Data Generation]
-        A[APIs / Web Scraping]
-        B[Relational DBs]
-        C[NoSQL & Graph DBs]
-    end
-
-    %% Ingestion & Streaming
-    subgraph Ingestion [2. Ingestion & Streaming]
-        D[Apache NiFi]
-        E[Apache Kafka]
-    end
-
-    %% Processing & Storage
-    subgraph Processing [3. Processing & Storage]
-        F[Apache Spark]
-        G[Dockerized Environment]
-        H[(PostgreSQL / MySQL)]
-        I[(MongoDB / Cassandra)]
-        J[(Neo4j Graph)]
-    end
-
-    %% Orchestration
-    subgraph Orchestration [4. Workflow Management]
-        K{Apache Airflow}
-    end
-
-    %% Serving & BI
-    subgraph Consumption [5. Serving & BI]
-        L[Power BI Dashboards]
-    end
-
-    %% Connections
-    A -->|Batch / Stream| D
-    B -->|CDC / Extract| D
-    C -->|NoSQL Fetch| E
+    %% Tool Nodes with HTML Icons
+    A[<img src='[https://img.shields.io/badge/Data_Sources-Ingest-lightgrey?style=flat-square'/](https://img.shields.io/badge/Data_Sources-Ingest-lightgrey?style=flat-square'/)>] 
+    B[<img src='[https://img.shields.io/badge/Apache_NiFi-009688?style=flat-square&logo=Apache%20NiFi&logoColor=white'/](https://img.shields.io/badge/Apache_NiFi-009688?style=flat-square&logo=Apache%20NiFi&logoColor=white'/)>] 
+    C[<img src='[https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white'/](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white'/)>] 
+    D[<img src='[https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white'/](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white'/)>] 
+    E[<img src='[https://img.shields.io/badge/Databases-Storage-blue?style=flat-square'/](https://img.shields.io/badge/Databases-Storage-blue?style=flat-square'/)>] 
+    F[<img src='[https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black'/](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black'/)>]
     
-    D --> E
-    E -->|High-Velocity Streams| F
-    
-    K -.->|Orchestrates & Monitors| D
-    K -.->|Schedules Jobs| F
-    G -.->|Containers Strategy| F
-    
-    F -->|Transform & Load| H
-    F -->|Store Unstructured| I
-    F -->|Map Relationships| J
-    
-    H -->|Analytical Querying| L
+    %% Orchestration Overlay
+    Airflow[<img src='[https://img.shields.io/badge/Apache_Airflow-017CE2?style=flat-square&logo=Apache%20Airflow&logoColor=white'/](https://img.shields.io/badge/Apache_Airflow-017CE2?style=flat-square&logo=Apache%20Airflow&logoColor=white'/)>]
+
+    %% Flow Connections with Moving/Interactive-style Links
+    A ==>|Raw Data| B
+    B ==>|Stream| C
+    C ==>|High Velocity| D
+    D ==>|Transform & Load| E
+    E ==>|Analytics| F
+
+    %% Airflow Orchestrating the Core
+    Airflow -.->|Orchestrate| B
+    Airflow -.->|Trigger Jobs| D
+
+    %% Dynamic Linking/Stuffs
+    style B fill:#111,stroke:#009688,stroke-width:2px
+    style C fill:#111,stroke:#231F20,stroke-width:2px
+    style D fill:#111,stroke:#E25A1C,stroke-width:2px
+    style Airflow fill:#111,stroke:#017CE2,stroke-width:2px
