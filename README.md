@@ -1,4 +1,4 @@
-# Hi there, I'm Shereen Mohamed Yasen! 👋 
+
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                        HEADER BANNER                             -->
@@ -36,14 +36,14 @@
 
 ### 🛠️ Technical Toolbox
 
-####  Data Engineering & Big Data Ecosystem
+#### 🌌 Data Engineering & Big Data Ecosystem
 ![](https://img.shields.io/badge/Apache_Airflow-017CE2?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![](https://img.shields.io/badge/Apache_NiFi-009688?style=for-the-badge&logo=Apache%20NiFi&logoColor=white)
 ![](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
 ![](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
 ![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
-##### Dynamic Data Pipeline Workflow
+##### ⚡ Dynamic Data Pipeline Workflow
 ```mermaid
 graph LR
     %% Tool Nodes
@@ -74,5 +74,20 @@ graph LR
     style F fill:#F2C811,stroke:#333,stroke-width:2px,color:#333
     style A fill:#7f8c8d,stroke:#fff,stroke-width:1px,color:#fff
     style E fill:#2980b9,stroke:#fff,stroke-width:1px,color:#fff
-## 👤 About Me
+
+```
+
+#### 🗄️ Databases & Storage (SQL & NoSQL)
+
+#### 💻 Programming Languages & Backend Frameworks
+
+#### ⚙️ DevOps & Tools
+
+---
+
+## 📊 GitHub Analytics
+
+---
+
+## 🤝 Let's Connect
 
