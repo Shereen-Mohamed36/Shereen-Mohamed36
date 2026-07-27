@@ -1,4 +1,4 @@
-
+# Hi there, I'm Shereen Mohamed Yasen! 👋
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                        HEADER BANNER                             -->
@@ -34,14 +34,100 @@
 
 ---
 
-### 🛠️ Technical Toolbox
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        TECH Skills                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-#### 🌌 Data Engineering & Big Data Ecosystem
-![](https://img.shields.io/badge/Apache_Airflow-017CE2?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![](https://img.shields.io/badge/Apache_NiFi-009688?style=for-the-badge&logo=Apache%20NiFi&logoColor=white)
-![](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark&logoColor=white)
-![](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=Apache%20Kafka&logoColor=white)
-![](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> &nbsp; Technical Toolbox
+
+<table align="center">
+<tr>
+<td valign="top" width="33%" align="center">
+
+#### 💻 Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<br/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+#### 🌐 Web & Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" alt=".NET"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+#### 🌌 Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CE2?style=flat-square&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark"/>
+<br/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/Apache_NiFi-009688?style=flat-square&logo=apache&logoColor=white" alt="NiFi"/>
+<br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="PowerBI"/>
+</p>
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%" align="center">
+
+#### 🗄️ Relational DBs
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+</p>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+#### 📦 NoSQL & Graph DBs
+
+<p>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<br/>
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white" alt="Cassandra"/>
+<br/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" alt="Neo4j"/>
+</p>
+
+</td>
+<td valign="top" width="33%" align="center">
+
+#### ⚙️ DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+<br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
+
+</td>
+</tr>
+</table>
 
 ##### ⚡ Dynamic Data Pipeline Workflow
 ```mermaid
@@ -74,20 +160,3 @@ graph LR
     style F fill:#F2C811,stroke:#333,stroke-width:2px,color:#333
     style A fill:#7f8c8d,stroke:#fff,stroke-width:1px,color:#fff
     style E fill:#2980b9,stroke:#fff,stroke-width:1px,color:#fff
-
-```
-
-#### 🗄️ Databases & Storage (SQL & NoSQL)
-
-#### 💻 Programming Languages & Backend Frameworks
-
-#### ⚙️ DevOps & Tools
-
----
-
-## 📊 GitHub Analytics
-
----
-
-## 🤝 Let's Connect
-
