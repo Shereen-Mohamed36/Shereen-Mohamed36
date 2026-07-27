@@ -1,4 +1,3 @@
-# Hi there, I'm Shereen Mohamed Yasen! 👋
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                        HEADER BANNER                             -->
@@ -11,10 +10,15 @@
 <!-- DYNAMIC TYPING ANIMATION (Data + Business + AI Connection) -->
 <p align="center">
   <a href="https://github.com/Shereen-Mohamed36">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Architecting+robust+pipelines+to+power+AI;Bridging+the+gap+between+raw+big+data+and+business+value;Transforming+unstructured+chaos+into+intelligent+insights;Data+Engineering+%E2%9A%99%EF%B8%8F+%C3%97+Machine+Learning+%F0%9F%A5%BE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Architecting+robust+pipelines+to+power+AI;Bridging+the+gap+between+raw+data+and+business+value;Transforming+unstructured+chaos+into+intelligent+insights;Senior+CS+Student+%E2%9A%99%EF%B8%8F+%C3%97+ Aspiring+Data+Engineer+%F0%9F%A5%BE" alt="Typing SVG" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Shereen-Mohamed36?label=FOLLOWERS&style=flat-square&color=a855f7&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://komarev.com/ghvc/?username=Shereen-Mohamed36&label=PROFILE+VIEWS&color=2196F3&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/Shereen-Mohamed36?label=TOTAL+STARS&style=flat-square&color=FF9800&logo=github&logoColor=white" alt="Total Stars"/>
+</p>
 <!-- SOCIALS -->
 
 <p align="center">
@@ -171,3 +175,12 @@ graph LR
     style F fill:#F2C811,stroke:#333,stroke-width:2px,color:#333
     style A fill:#7f8c8d,stroke:#fff,stroke-width:1px,color:#fff
     style E fill:#2980b9,stroke:#fff,stroke-width:1px,color:#fff
+
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shereen-Mohamed36&show_icons=true&theme=dracula&hide_border=false" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shereen-Mohamed36&theme=dracula&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shereen-Mohamed36&theme=dracula&hide_border=false&layout=compact" />
+</p>
