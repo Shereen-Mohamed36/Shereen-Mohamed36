@@ -9,7 +9,7 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=ff79c6&center=true&vCenter=true&width=800&height=50&lines=Architecting+robust+pipelines+to+power+AI;Bridging+the+gap+between+raw+data+and+business+value;Transforming+unstructured+chaos+into+intelligent+insights;Senior+CS+Student+%E2%9A%99%EF%B8%8F+%C3%97+Aspiring+Data+Engineer+%F0%9F%A5%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=DB2777&center=true&vCenter=true&width=800&height=50&lines=Architecting+robust+pipelines+to+power+AI;Bridging+the+gap+between+raw+data+and+business+value;Transforming+unstructured+chaos+into+intelligent+insights;Senior+CS+Student+%E2%9A%99%EF%B8%8F+%C3%97+Aspiring+Data+Engineer+%F0%9F%A5%BE" alt="Typing SVG" />
 </p>
 
 <!-- SOCIALS & DYNAMIC QUICK STATS -->
