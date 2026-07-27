@@ -8,7 +8,7 @@
 </p>
 <!-- SUBTITLE (FIXED) -->
 <p align="center">
-  <strong>Senior CS Student || Aspiring Data Engineer </strong>
+  <strong>Senior CS Student || Aspiring Data Engineer || Web developer </strong>
 </p>
 
 <!-- DYNAMIC TYPING ANIMATION -->
