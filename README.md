@@ -4,7 +4,7 @@
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=2,10,20,30&height=200&section=header&text=Shereen%20M.%20Yasen&fontSize=65&fontColor=a855f7&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=0F172A&center=true&vCenter=true&width=500&height=90&lines=Shereen+M.+Yasen" alt="Typing Name" />
 </p>
 
 <!-- DYNAMIC TYPING ANIMATION (Data + Business + AI Connection) -->
