@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Shereen-Mohamed36?label=FOLLOWERS&style=flat-square&color=a855f7&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=PROFILE+VIEWS&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FShereen-Mohamed36%2Fviews&color=2196F3" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Shereen-Mohamed36&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/stars/Shereen-Mohamed36?label=TOTAL+STARS&style=flat-square&color=FF9800&logo=github&logoColor=white" alt="Total Stars"/>
 </p>
 
