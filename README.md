@@ -8,12 +8,12 @@
 </p>
 <!-- SUBTITLE (FIXED) -->
 <p align="center">
-  <strong>Senior CS Student ⚙️ × Aspiring Data Engineer ⚡</strong>
+  <strong>Senior CS Student || Aspiring Data Engineer </strong>
 </p>
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1000&color=DB2777&center=true&vCenter=true&width=800&height=50&lines=Building+%26+optimizing+scalable+data+pipelines;Engineering+robust+software+%26+scalable+ML%2FAI+systems;Transforming+raw+data+into+actionable+business+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3500&pause=1000&color=DB2777&center=true&vCenter=true&width=800&height=50&lines=Building+%26+optimizing+scalable+data+pipelines;Exploring+Software+Engineering+%26+AI%2FML-powered+solutions;Transforming+raw+data+into+actionable+business+insights" alt="Typing SVG" />
 </p>
 
 <!-- SOCIALS & DYNAMIC QUICK STATS -->
