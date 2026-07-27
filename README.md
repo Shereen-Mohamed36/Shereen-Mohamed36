@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Shereen-Mohamed36?label=FOLLOWERS&style=flat-square&color=a855f7&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://komarev.com/ghvc/?username=Shereen-Mohamed36&label=PROFILE+VIEWS&color=2196F3&style=flat-square" alt="Profile Views"/>
+  <img src="https://page-views.glitch.me/badge?page_id=Shereen-Mohamed36.Shereen-Mohamed36" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/Shereen-Mohamed36?label=TOTAL+STARS&style=flat-square&color=FF9800&logo=github&logoColor=white" alt="Total Stars"/>
 </p>
 
@@ -143,10 +143,10 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shereen-Mohamed36&show_icons=true&theme=dracula&hide_border=false" />
+  <img width="49.5%" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api?username=Shereen-Mohamed36&show_icons=true&theme=dracula&hide_border=false" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shereen-Mohamed36&theme=dracula&hide_border=false" />
 </p>
 
 <p align="center">
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shereen-Mohamed36&theme=dracula&hide_border=false&layout=compact" />
+  <img width="65%" src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=Shereen-Mohamed36&theme=dracula&hide_border=false&layout=compact" />
 </p>
