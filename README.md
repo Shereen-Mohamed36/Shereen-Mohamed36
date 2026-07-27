@@ -9,25 +9,25 @@
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=800&height=50&lines=Architecting+robust+pipelines+to+power+AI;Bridging+the+gap+between+raw+data+and+business+value;Transforming+unstructured+chaos+into+intelligent+insights;Senior+CS+Student+%E2%9A%99%EF%B8%8F+%C3%97+Aspiring+Data+Engineer+%F0%9F%A5%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0F172A&center=true&vCenter=true&width=800&height=50&lines=Architecting+robust+pipelines+to+power+AI;Bridging+the+gap+between+raw+data+and+business+value;Transforming+unstructured+chaos+into+intelligent+insights;Senior+CS+Student+%E2%9A%99%EF%B8%8F+%C3%97+Aspiring+Data+Engineer+%F0%9F%A5%BE" alt="Typing SVG" />
 </p>
 
 <!-- SOCIALS & DYNAMIC QUICK STATS -->
 <p align="center">
   <a href="mailto:shereenmohamed632006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/shereen-mohamed-b37702287/">
-    <img src="https://img.shields.io/badge/LinkedIn-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Shereen-Mohamed36?label=FOLLOWERS&style=flat-square&color=1D4ED8&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=Shereen-Mohamed36&label=PROFILE+VIEWS&color=3B82F6&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/Shereen-Mohamed36?label=TOTAL+STARS&style=flat-square&color=1D4ED8&logo=github&logoColor=white" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/followers/Shereen-Mohamed36?label=FOLLOWERS&style=flat-square&color=ff79c6&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Shereen-Mohamed36&label=PROFILE+VIEWS&color=8be9fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/stars/Shereen-Mohamed36?label=TOTAL+STARS&style=flat-square&color=bd93f9&logo=github&logoColor=white" alt="Total Stars"/>
 </p>
----
+
 
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                          ABOUT ME                                -->
