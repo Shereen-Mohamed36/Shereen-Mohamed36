@@ -9,8 +9,16 @@
 
 <!-- DYNAMIC TYPING ANIMATION (Data + Business + AI Connection) -->
 <p align="center">
-  <a href="https://github.com/Shereen-Mohamed36">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Architecting+robust+pipelines+to+power+AI;Bridging+the+gap+between+raw+data+and+business+value;Transforming+unstructured+chaos+into+intelligent+insights;Senior+CS+Student+%E2%9A%99%EF%B8%8F+%C3%97+ Aspiring+Data+Engineer+%F0%9F%A5%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&height=50&lines=Architecting+robust+pipelines+to+power+AI;Bridging+the+gap+between+raw+data+and+business+value;Transforming+unstructured+chaos+into+intelligent+insights;Senior+CS+Student+%E2%9A%99%EF%B8%8F+%C3%97+Aspiring+Data+Engineer+%F0%9F%A5%BE" alt="Typing SVG" />
+</p>
+
+<!-- SOCIALS & DYNAMIC QUICK STATS -->
+<p align="center">
+  <a href="mailto:shereenmohamed632006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shereen-mohamed-b37702287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -19,22 +27,6 @@
   <img src="https://komarev.com/ghvc/?username=Shereen-Mohamed36&label=PROFILE+VIEWS&color=2196F3&style=flat-square" alt="Profile Views"/>
   <img src="https://img.shields.io/github/stars/Shereen-Mohamed36?label=TOTAL+STARS&style=flat-square&color=FF9800&logo=github&logoColor=white" alt="Total Stars"/>
 </p>
-<!-- SOCIALS -->
-
-<p align="center">
-  <a href="mailto:shereenmohamed632006@gmal.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/shereen-mohamed-b37702287/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://github.com/Shereen-Mohamed36">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
 
 ---
 
@@ -45,12 +37,10 @@
 ### 🎓 Education & Background
 *   **B.Sc. in Computers and Artificial Intelligence** – Capital University (formerly Helwan University)
 *   **Big Data Training Track** – Samsung Innovation Campus
-*   **NextStep Mentorship Program** – UNICEF Mentees (Supported by Deloitte)
-
 ---
 
 <!-- ════════════════════════════════════════════════════════════════ -->
-<!--                        TECH Skills                             -->
+<!--                        TECH SKILLS                               -->
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"/> &nbsp; Technical Toolbox
@@ -144,7 +134,13 @@
 </tr>
 </table>
 
+---
 
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                        STATS DASHBOARD                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shereen-Mohamed36&show_icons=true&theme=dracula&hide_border=false" />
