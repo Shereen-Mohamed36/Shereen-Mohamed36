@@ -39,7 +39,7 @@
 
 ### 🎓 Education & Background
 *   **B.Sc. in Computers and Artificial Intelligence** – Capital University (formerly Helwan University)
-*   **Big Data Engneering Trainee** – Samsung Innovation Campus
+*   **Big Data Engineering Trainee** – Samsung Innovation Campus
 ---
 
 <!-- ════════════════════════════════════════════════════════════════ -->
