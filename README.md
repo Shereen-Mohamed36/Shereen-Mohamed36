@@ -15,11 +15,22 @@
   </a>
 </p>
 
-<!-- BADGES & VISITS -->
+<!-- SOCIALS -->
+
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=Shereen-Mohamed36&label=PROFILE+VIEWS&color=a855f7&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Focus-Big_Data_%26_ML-blueviolet?style=for-the-badge" alt="Focus"/>
+  <a href="mailto:shereenmohamed632006@gmal.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/shereen-mohamed-b37702287/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://github.com/Shereen-Mohamed36">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
+
 
 ---
 
