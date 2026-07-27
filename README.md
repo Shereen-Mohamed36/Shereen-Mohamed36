@@ -144,37 +144,7 @@
 </tr>
 </table>
 
-##### ⚡ Dynamic Data Pipeline Workflow
-```mermaid
-graph LR
-    %% Tool Nodes
-    A[📥 Data Sources] 
-    B[🔄 Apache NiFi] 
-    C[⚡ Apache Kafka] 
-    D[⚙️ Apache Spark] 
-    E[🗄️ Storage / DBs] 
-    F[📊 Power BI]
-    Airflow[💨 Apache Airflow]
 
-    %% Flow Connections
-    A ==>|Raw Data| B
-    B ==>|Ingest & Stream| C
-    C ==>|High-Velocity| D
-    D ==>|Transform & Load| E
-    E ==>|Analyze| F
-
-    %% Airflow Orchestration
-    Airflow -.->|Orchestrate| B
-    Airflow -.->|Trigger Jobs| D
-
-    %% Custom Tech-Stack Styling (Colors)
-    style Airflow fill:#017CE2,stroke:#fff,stroke-width:2px,color:#fff
-    style B fill:#009688,stroke:#fff,stroke-width:2px,color:#fff
-    style C fill:#231F20,stroke:#fff,stroke-width:2px,color:#fff
-    style D fill:#E25A1C,stroke:#fff,stroke-width:2px,color:#fff
-    style F fill:#F2C811,stroke:#333,stroke-width:2px,color:#333
-    style A fill:#7f8c8d,stroke:#fff,stroke-width:1px,color:#fff
-    style E fill:#2980b9,stroke:#fff,stroke-width:1px,color:#fff
 
 <p align="center">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Shereen-Mohamed36&show_icons=true&theme=dracula&hide_border=false" />
