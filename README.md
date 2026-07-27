@@ -4,7 +4,7 @@
 <!-- ════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,20,30&height=220&section=header&text=Shereen%20M.%20Yasen&fontSize=65&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=2,10,20,30&height=220&section=header&text=Shereen%20M.%20Yasen&fontSize=65&fontColor=ffffff&animation=fadeIn" alt="Header Banner"/>
 </p>
 
 <!-- DYNAMIC TYPING ANIMATION (Data + Business + AI Connection) -->
